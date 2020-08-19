@@ -1,24 +1,24 @@
 # An Empirical Study of Method Chaining in Java
 
 * **Tomoki Nakamaru**
-* **nakamaru@csg.ci.i.u-tokyo.ac.jp**
-* **The University of Tokyo**
+**nakamaru@csg.ci.i.u-tokyo.ac.jp**
+**The University of Tokyo**
 
 * **Tomomasa Matsunaga**
-* **matsunaga@csg.ci.i.u-tokyo.ac.jp**
-* **The University of Tokyo**
+**matsunaga@csg.ci.i.u-tokyo.ac.jp**
+**The University of Tokyo**
 
 * **Tetsuro Yamazaki**
-* **yamazaki@csg.ci.i.u-tokyo.ac.jp**
-* **The University of Tokyo**
+**yamazaki@csg.ci.i.u-tokyo.ac.jp**
+**The University of Tokyo**
 
 * **Soramichi Akiyama**
-* **akiyama@ci.i.u-tokyo.ac.jp**
-* **The University of Tokyo**
+**akiyama@ci.i.u-tokyo.ac.jp**
+**The University of Tokyo**
 
 * **Shigeru Chiba**
-* **chiba@acm.org**
-* **The University of Tokyo**
+**chiba@acm.org**
+**The University of Tokyo**
 
 
 
