@@ -35,8 +35,8 @@ Lets apply Unity Linter on a set of projects, to (i) validate its accuracy, and 
 
 ![](image1.jpeg)
 ![](image2.jpeg)
-![](image3.jpeg)
+![](image3.jpeg) 
 
-# Result:- 
+# Result:-
 Studied small types affects a proportion of project signing between 39% and 97% while coupling objects through the IDE Inspector is highly diffused (bed also considered as an acceptable development practice) smells such as getting a GameObject reference finding it by name allocating and destroying GameObjects in updates, and animation speed depends on the frame rate are more acknowledge by developers and also occur in fewer projects.
 Unity Linter precision ranges between 86% and 100% whereas recall between 50% and 100%. Sources of imprecision and limited recall are due to the approximate data flow analysis, and other heuristics of a lightweight analysis.
