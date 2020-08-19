@@ -4,9 +4,9 @@
 ###### nakamaru@csg.ci.i.u-tokyo.ac.jp
 ###### The University of Tokyo
 
-###### Tomomasa Matsunaga
-###### matsunaga@csg.ci.i.u-tokyo.ac.jp
-###### The University of Tokyo
+**Tomomasa Matsunaga
+matsunaga@csg.ci.i.u-tokyo.ac.jp
+The University of Tokyo**
 
 ###### Tetsuro Yamazaki
 ###### yamazaki@csg.ci.i.u-tokyo.ac.jp
