@@ -22,7 +22,6 @@
 
 
 
-
 # Introduction:-
 Method Channing is the practice of calling different methods in a single line instead of calling different methods with the same object reference separately. Under this procedure, we have to write the object reference once and then call the methods by separating them with a (dot.). Lets and it the example first and then it will be much smoother to explain.
 
