@@ -1,10 +1,10 @@
 # Cheating Death: A Statistical Survival Analysis of Publicly
-			       **Available Python Projects**
-		   **Rao Hamza Ali, Chelsea Parlett-Pelleriti,Erik Linstead**
-              **{raali,cparlett,linstead}@chapman.edu**
-			    **Machine Learning and Assistive Technology Lab**
-				            	**Chapman University**
-					            **Orange. CA. USA**		
+**Available Python Projects**
+**Rao Hamza Ali, Chelsea Parlett-Pelleriti,Erik Linstead**
+**{raali,cparlett,linstead}@chapman.edu**
+**Machine Learning and Assistive Technology Lab**
+**Chapman University**
+**Orange. CA. USA**		
 
 # Introduction:-
 Open Source Software (OSS) projects are ubiquitous in today’s software landscape and provide a rich set of data on which to analyze facets of the software development process using everything from additional statistics to deep learning. Open Source development efforts typically have a single person or body that selects a subset of developed code for build releases and projects are maintained by a decentralized team of developers, who with low organizational cost, are able to produce application that are at times used by millions. There is a weekly pattern of code update and addition.
